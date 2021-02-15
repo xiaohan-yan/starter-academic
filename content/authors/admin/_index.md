@@ -60,7 +60,7 @@ I am a 4th-year math graduate student. My current research interests lie in alge
 
 Before coming to Berkeley for graduate school, I went to Peking University for college. Before that, I was a student of the Gifted Education Program at Beijing No.8 Middle School.
 
-Some non-math things I like to do: linguistics, hiking, soccer, badminton, gastronomy, and baking. My favorite drink is orange juice. 
+Some non-math things I like to do: traveling, linguistics, hiking, soccer, badminton, gastronomy, and baking. My favorite drink is orange juice. 
 
 <!---
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
