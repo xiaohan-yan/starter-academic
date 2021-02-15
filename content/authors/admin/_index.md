@@ -11,7 +11,10 @@ role: PhD Candidate in Mathematics
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of California, Berkeley 
-#  url: https://www.stanford.edu/
+
+<!---
+url: https://www.stanford.edu/
+-->
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests lie generally in algebraic geometry and mathematical physics, especially quantum K-theory.
@@ -61,8 +64,8 @@ Before coming to Berkeley for graduate school, I went to Peking University for c
 
 Some non-math things I like to do: linguistics, hiking, soccer, badminton, gastronomy, and baking. My favorite drink is orange juice. 
 
-# Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!---
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+-->
