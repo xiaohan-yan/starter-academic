@@ -12,9 +12,7 @@ role: PhD Candidate in Mathematics
 organizations:
 - name: University of California, Berkeley 
 
-<!---
-url: https://www.stanford.edu/
--->
+# url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests lie generally in algebraic geometry and mathematical physics, especially quantum K-theory.
